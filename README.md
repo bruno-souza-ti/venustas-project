@@ -1,6 +1,6 @@
 # Venustas 🌸
 
-O **Venustas** é uma solução completa e profissional para a gestão e agendamento de serviços em salões de estética. Desenvolvido para oferecer uma experiência fluida tanto para os profissionais como para os clientes, o sistema automatiza fluxos de trabalho, gere agendas de forma inteligente e centraliza o controlo financeiro.
+O **Venustas** é uma solução completa e profissional para a gestão e agendamento de serviços em salões de estética. Desenvolvido para oferecer uma experiência fluida tanto para os profissionais como para os clientes, o sistema automatiza fluxos de trabalho, gere agendas de forma inteligente e centraliza o controle financeiro.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -23,6 +23,6 @@ O projeto utiliza uma stack moderna e escalável:
 ## 🛠️ Estrutura do Projeto
 
 ```text
-📂 glowflow-web  -> Interface do utilizador e dashboard
-📂 glowflow-api  -> Lógica de negócio e rotas da base de dados
-📂 glowflow-infra -> Scripts de migração e fluxos do n8n
+📂 venustas-web  -> Interface do utilizador e dashboard
+📂 venustas-api  -> Lógica de negócio e rotas da base de dados
+📂 venustas-infra -> Scripts de migração e fluxos do n8n
